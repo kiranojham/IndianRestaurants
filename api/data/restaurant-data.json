@@ -1,0 +1,431 @@
+[{
+    "name": "Chandigarh Tandoori",
+    "stars": 5,
+    "description": "Chandigarh Tandoori is the best Indian tandoori restaurant, located in the heart of Geneva area. Well planned seating areas help you relax and enjoy the flavors of our Indian food to achieve overall harmony. Chandigarh tandoori is a best spice restaurant where you will find a magnificent blend of elegant surroundings, exquisite cuisine, pleasing decor and satisfying service...indulging all your senses. The Restaurant is open throughout the day so you can enjoy our services even if you are considering a late lunch or an early dinner. We serve you varieties of delicious Indian food and are specialized in best curry in Geneva. We also provide the take away facility for all your convenience. A unique understanding of the culture and communities combined with the collective expertise of an executive team contributing over 20 years of experience in all kind of cuisine including French gastronomy in service industry. We welcome you to our latest addition where we serve the best of Indian cuisines. We trust that these pages will prove useful to you and you can rest assured that with our service we shall be able to fulfill the confidence you have shown in us.",
+    "photos": [
+        "/photos/hotel/corinthiahotelbudapest/1.jpg",
+        "/photos/hotel/corinthiahotelbudapest/2.jpg",
+        "/photos/hotel/corinthiahotelbudapest/3.jpg"
+    ],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 20,
+        "description": "These are some great rooms",
+        "photos": [
+            "/photos/room/corinthiahotelbudapest/2.jpg",
+            "/photos/room/corinthiahotelbudapest/5.jpg"
+        ]
+    }, {
+        "type": "French",
+        "number": 50,
+        "description": "These are amazing rooms",
+        "photos": [
+            "/photos/room/corinthiahotelbudapest/4.jpg",
+            "/photos/room/corinthiahotelbudapest/6.jpg"
+        ]
+    }, {
+        "type": "Chinese",
+        "number": 15,
+        "description": "Excellent for three people",
+        "photos": [
+            "/photos/room/corinthiahotelbudapest/4.jpg",
+            "/photos/room/corinthiahotelbudapest/6.jpg"
+        ]
+    }],
+    "location": {
+        "address": "Rue de Lyon 67 bis - 1203 Geneve",
+        "coordinates": [
+            46.208272,
+            6.0586113
+        ]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Take Away"
+    ]
+}, {
+    "name": "Spice of India",
+    "stars": 4,
+    "description": "At the Spice of India restaurant, we serve authentic Panjab meals (North India, 400 km from Delhi). You can choose classic dishes (Tandoori, curry ...) and local specialties cooked with the utmost respect for traditional gastronomy from the Mogholes. You will be seduced by the refinement of the dishes and also by the chic, modern and contrasting colors. Our menu is prepared by our experienced Indian cooks. The bright colors, flavors and smells of the spices in your plates will take you directly to India.",
+    "photos": ["/photos/hotel/grandhotelpalatino/1.jpg", "/photos/hotel/grandhotelpalatino/2.jpg", "/photos/hotel/grandhotelpalatino/3.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 10,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/grandhotelpalatino/2.jpg", "/photos/room/grandhotelpalatino/5.jpg"]
+    }, {
+        "type": "Asian",
+        "number": 25,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/grandhotelpalatino/4.jpg", "/photos/room/grandhotelpalatino/6.jpg"]
+    }, {
+        "type": "Vegetarian-Friendly",
+        "number": 3,
+        "description": "Amazing suites",
+        "photos": ["/photos/room/grandhotelpalatino/7.jpg"]
+    }],
+    "location": {
+        "address": "rue de Lausanne 29, Geneva 1201, Switzerland",
+        "coordinates": [46.2124321, 6.0747338]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great hotel",
+        "rating": 4
+    }, {
+        "name": "Steve",
+        "id": "/user/steve.json",
+        "review": "Awesome place!",
+        "rating": 5
+    }],
+    "services": ["Buffet", "Lunch", "Dinner"]
+}, {
+    "name": "Rasoi By Vineet",
+    "stars": 4.5,
+    "description": "As the first fine dining Indian restaurant in Geneva, Rasoi by Vineet offers a delectable gastronomic journey into the world of contemporary Indian cuisine. Created by renowned chef Vineet Bhatia, Rasoi by Vineet is a sister to Vineet Bhatia in London, Bhatia’s first and most famous restaurant. Inspired by traditional Indian cookery, Bhatia uses his imagination to blend flavours and textures in a uniquely modern way. To complement the innovative cuisine, we’ve provided an equally imaginative backdrop. Offering a modern interpretation of traditional Indian style, the décor uses vibrant reds and sleek blacks to create a dramatic interior. A large tandoor oven finished in sleek granite provides the stunning centrepiece to the room.Boasting a panoramic hot tub and a swimming pool surrounded with vegetation and sun loungers, this stylish hotel offers gym facilities and free Wi-Fi.",
+    "photos": ["/photos/hotel/hoteldanncarltonbelfortmedellin/1.jpg", "/photos/hotel/hoteldanncarltonbelfortmedellin/2.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "dishes": 50,
+        "description": "There are many indian dishes available",
+        "photos": ["/photos/room/hoteldanncarltonbelfortmedellin/2.jpg", "/photos/room/hoteldanncarltonbelfortmedellin/5.jpg"]
+    }, {
+        "type": "Thai",
+        "dishes": 30,
+        "description": "These are many french dishes available",
+        "photos": ["/photos/room/hoteldanncarltonbelfortmedellin/4.jpg", "/photos/room/hoteldanncarltonbelfortmedellin/6.jpg"]
+    }, {
+        "type": "Chinese",
+        "dishes": 10,
+        "description": "There are many chinese dishes available",
+        "photos": ["/photos/room/hoteldanncarltonbelfortmedellin/7.jpg"]
+    }],
+    "location": {
+        "address": "quai Turrettini 1 | Mandarin Oriental, Geneva, Geneva 1201, Switzerland",
+        "coordinates": [6.2058201, 6.140838400000007]
+    },
+    "reviews": [{
+        "name": "Kiran",
+        "id": "/user/kiran.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "Indian Curry House",
+    "stars": 3,
+    "description": "Located only 5 minutes away from the city center and close to the United Nations (UN) offices, Indian Curry House is the ideal place for a quick lunch at a reasonable price or for a team dinner in a nice and cozy place. We also do delivery, team events and weddings. Our food is hallal and our staff international friendly. Note: We accept all payment methods.",
+    "photos": ["/photos/hotel/hotelkarin/1.jpg", "/photos/hotel/hotelkarin/2.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 10,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/hotelkarin/2.jpg", "/photos/room/hotelkarin/5.jpg"]
+    }, {
+        "type": "Vegan",
+        "number": 15,
+        "description": "These are amazing apartmants",
+        "photos": ["/photos/room/hotelkarin/4.jpg", "/photos/room/hotelkarin/6.jpg"]
+    }],
+    "location": {
+        "address": "Rue de la Servette 76, 1202 Genève, Switzerland",
+        "coordinates": [46.2123744, 6.0626792]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "Shiva Restaurant",
+    "stars": 4,
+    "description": "Only restaurant serving authentic South Indian and Sri lankan dishes in Geneva! (Dosa,Idli,Appam..) Authentique cuisine indienne à prix raisonnables!",
+    "photos": ["/photos/hotel/hotelquirinale/1.jpg", "/photos/hotel/hotelquirinale/2.jpg", "/photos/hotel/hotelquirinale/3.jpg", "/photos/hotel/hotelquirinale/4.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 10,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/hotelquirinale/2.jpg", "/photos/room/hotelquirinale/5.jpg"]
+    }, {
+        "type": "Cafe",
+        "number": 25,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/hotelquirinale/4.jpg", "/photos/room/hotelquirinale/6.jpg"]
+    }, {
+        "type": "European",
+        "number": 3,
+        "description": "Amazing suites",
+        "photos": ["/photos/room/hotelquirinale/7.jpg"]
+    }, {
+        "type": "Vegetarian Friendly",
+        "number": 13,
+        "description": "Amazing suites",
+        "photos": ["/photos/room/hotelquirinale/7.jpg"]
+    }],
+    "location": {
+        "address": "rue du Velodrome 14 | Jonction, Geneva 1205, Switzerland",
+        "coordinates": [46.1997454, 6.0613091]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great hotel",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "Sajna Restaurant",
+    "stars": 5,
+    "description": "From the moment you step into Sajna Restaurant based in Geneva, you experience a rich awakening of your senses, from the smells of the delectable cuisine to the colorful and warm sounds of traditional Indian music to the beautifully decorated ambience. All of this, before you even taste a morsel of their sophisticated food and drink offerings. Sajna Restaurant is a complete dining experience, a feast for the mouth and the heart, supported by friendly service as warm and rich as the menu.",
+    "photos": ["/photos/hotel/hotelraphaelrelaischateaux/1.jpg", "/photos/hotel/hotelraphaelrelaischateaux/2.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 10,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/hotelraphaelrelaischateaux/2.jpg", "/photos/room/hotelraphaelrelaischateaux/5.jpg"]
+    }, {
+        "type": "Bangladeshi",
+        "number": 25,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/hotelraphaelrelaischateaux/4.jpg", "/photos/room/hotelraphaelrelaischateaux/6.jpg"]
+    }, {
+        "type": "Asian",
+        "number": 3,
+        "description": "Amazing suites",
+        "photos": ["/photos/room/hotelraphaelrelaischateaux/7.jpg"]
+    }, {
+        "type": "Vegan",
+        "number": 13,
+        "description": "Amazing suites",
+        "photos": ["/photos/room/hotelraphaelrelaischateaux/7.jpg"]
+    }, {
+        "type": "Junior Suite",
+        "number": 13,
+        "description": "Very exclusive suites",
+        "photos": ["/photos/room/hotelraphaelrelaischateaux/7.jpg"]
+    }],
+    "location": {
+        "address": "Rue de Neuchâtel 18, 1201 Geneva, Switzerland",
+        "coordinates": [46.2109598, 6.0759575]
+    },
+    "reviews": [{
+        "name": "",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "Restaurant Indien Bollywood",
+    "stars": 5,
+    "description": "Nouveau Restaurarnt indien au coeur de Gaillard, au 125, route de Genève 74240 Gaillard France, 2 min à pied de Genève tramway, très bonne cuisine et service au top , jolie décoration, ambiance romantique ,livrason au domicile gratuitement, -10 % sur les emporter , carte très variée, prix raisonnable même les Boission alcoolique, quantité et qualité il y a rien à dire.",
+    "photos": ["/photos/hotel/kempinskihotelcorvinusbudapest/1.jpg", "/photos/hotel/kempinskihotelcorvinusbudapest/2.jpg", "/photos/hotel/kempinskihotelcorvinusbudapest/3.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 100,
+        "description": "These are some great suites",
+        "photos": ["/photos/room/kempinskihotelcorvinusbudapest/2.jpg", "/photos/room/kempinskihotelcorvinusbudapest/5.jpg"]
+    }, {
+        "type": "Pakistani",
+        "number": 150,
+        "description": "These are amazing apartmants",
+        "photos": ["/photos/room/kempinskihotelcorvinusbudapest/4.jpg", "/photos/room/kempinskihotelcorvinusbudapest/6.jpg"]
+    }, {
+        "type": "Vegan",
+        "number": 150,
+        "description": "These are amazing apartmants",
+        "photos": ["/photos/room/kempinskihotelcorvinusbudapest/4.jpg", "/photos/room/kempinskihotelcorvinusbudapest/6.jpg"]
+    }, {
+        "type": "Halal",
+        "number": 150,
+        "description": "These are amazing apartmants",
+        "photos": ["/photos/room/kempinskihotelcorvinusbudapest/4.jpg", "/photos/room/kempinskihotelcorvinusbudapest/6.jpg"]
+    }],
+    "location": {
+        "address": "125, route de Gen�ve 74240 France",
+        "coordinates": [46.2118492, 6.0800088]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away"]
+}, {
+    "name": "Nirvana",
+    "stars": 4,
+    "description": "Venez découvrir, notre nouvel établissement, (375 Route de Meyrin 1217 Meyrin), dans un environnement feutre et chaleureux. Le Nirvana Genève est le nouveau lieu de réunion du tout Genève... Ouvert tous les jours.",
+    "photos": ["/photos/hotel/newyorkmarriottmarquis/1.jpg", "/photos/hotel/newyorkmarriottmarquis/2.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 24,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/newyorkmarriottmarquis/2.jpg", "/photos/room/newyorkmarriottmarquis/5.jpg"]
+    }, {
+        "type": "Vegetarian Friendly",
+        "number": 14,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/newyorkmarriottmarquis/4.jpg", "/photos/room/newyorkmarriottmarquis/6.jpg"]
+    }, {
+        "type": "Vegan",
+        "number": 14,
+        "description": "Amazing double rooms",
+        "photos": ["/photos/room/newyorkmarriottmarquis/7.jpg"]
+    }],
+    "location": {
+        "address": "route de Meyrin 375, Meyrin, Geneva 1217, Switzerland",
+        "coordinates": [46.2320454, 5.9896834]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "Rajpoute",
+    "stars": 5,
+    "description": "Un lieu chaleureux et convivial...Une atmosphère et un décor Indien.\nLe Rajpoute vous accueille chaleureusement dans son établissement au 77 rue de Carouge pour vous faire découvrir les saveurs variées de la cuisine indienne.",
+    "photos": ["/photos/hotel/parklanehoteloncentralpark/1.jpg", "/photos/hotel/parklanehoteloncentralpark/2.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 24,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/parklanehoteloncentralpark/2.jpg", "/photos/room/parklanehoteloncentralpark/5.jpg"]
+    }, {
+        "type": "Asian",
+        "number": 14,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/parklanehoteloncentralpark/4.jpg", "/photos/room/parklanehoteloncentralpark/6.jpg"]
+    }, {
+        "type": "Middle Eastern",
+        "number": 14,
+        "description": "Amazing double rooms",
+        "photos": ["/photos/room/parklanehoteloncentralpark/7.jpg"]
+    }],
+    "location": {
+        "address": "Rue de Carouge 77, 1205 Geneva, Switzerland",
+        "coordinates": [46.1899173, 6.0736202]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "Kiran",
+    "stars": 4,
+    "description": "Le KIRAN est le digne successeur du restaurant LE NIRVANA, rue du Rhône à Genève. Notre chef de cuisine, met une attention particulière pour vous préparer des mets tout droit venus de l’inde. Notre cuisine est à base de produits frais de première qualité !!",
+    "photos": ["/photos/hotel/parkplazawestminsterbridgelondon/1.jpg", "/photos/hotel/parkplazawestminsterbridgelondon/2.jpg", "/photos/hotel/parkplazawestminsterbridgelondon/3.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 24,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/parkplazawestminsterbridgelondon/2.jpg", "/photos/room/parkplazawestminsterbridgelondon/5.jpg"]
+    }, {
+        "type": "Vegan",
+        "number": 14,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/parkplazawestminsterbridgelondon/4.jpg", "/photos/room/parkplazawestminsterbridgelondon/6.jpg"]
+    }, {
+        "type": "Asan",
+        "number": 14,
+        "description": "Amazing double rooms",
+        "photos": ["/photos/room/parkplazawestminsterbridgelondon/7.jpg"]
+    }, {
+        "type": "Halal",
+        "number": 5,
+        "description": "Superior double room with external view",
+        "photos": ["/photos/room/parkplazawestminsterbridgelondon/7.jpg"]
+    }],
+    "location": {
+        "address": " rue Kleberg 8, Geneva 1201, Switzerland",
+        "coordinates": [46.2073373, 6.1436802]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "The Indus",
+    "stars": 4,
+    "description": "Le KIRAN est le digne successeur du restaurant LE NIRVANA, rue du Rhône à Genève. Notre chef de cuisine, met une attention particulière pour vous préparer des mets tout droit venus de l’inde. Notre cuisine est à base de produits frais de première qualité !!",
+    "photos": ["/photos/hotel/thecumberlandaguomanhotel/1.jpg", "/photos/hotel/thecumberlandaguomanhotel/2.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 24,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/thecumberlandaguomanhotel/2.jpg", "/photos/room/thecumberlandaguomanhotel/5.jpg"]
+    }, {
+        "type": "Middle Eastern",
+        "number": 14,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/thecumberlandaguomanhotel/4.jpg", "/photos/room/thecumberlandaguomanhotel/6.jpg"]
+    }, {
+        "type": "Pakistani",
+        "number": 3,
+        "description": "Amazing king rooms",
+        "photos": ["/photos/room/thecumberlandaguomanhotel/7.jpg"]
+    }],
+    "location": {
+        "address": " Rue Dr-Alfred-Vincent 13, Geneva 1201, Switzerland",
+        "coordinates": [46.2098981, 6.0786263]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}, {
+    "name": "Little India",
+    "stars": 4,
+    "description": "Discover the true flavours of Indian delicacies at restaurant Little India. You can taste the authenticity and traditions of the ancient Indian cuisine in the curries, the special Tandoori dishes and other lavish courses, which are prepared according to traditional Indian cooking methods.",
+    "photos": ["/photos/hotel/thistlemarblearch/1.jpg", "/photos/hotel/thistlemarblearch/2.jpg"],
+    "cuisine": [{
+        "type": "Indian",
+        "number": 24,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/thistlemarblearch/2.jpg", "/photos/room/thistlemarblearch/5.jpg"]
+    }, {
+        "type": "Vegan",
+        "number": 14,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/thistlemarblearch/4.jpg", "/photos/room/thistlemarblearch/6.jpg"]
+    }, {
+        "type": "Gluten Free Food",
+        "number": 3,
+        "description": "Amazing double rooms",
+        "photos": ["/photos/room/thistlemarblearch/7.jpg"]
+    }],
+    "location": {
+        "address": "rue du Prieure 20, Geneva 1202, Switzerland",
+        "coordinates": [46.2098981, 6.0786263]
+    },
+    "reviews": [{
+        "name": "Tamas",
+        "id": "/user/tamas.json",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+    "services": ["Catering", "Reservations", "Take Away", "Waiter Service"]
+}]
